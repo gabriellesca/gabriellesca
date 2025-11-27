@@ -33,7 +33,7 @@ Aqui você acompanha minha evolução, meus estudos e tudo que estou construindo
 
 ### 🎨 Front-end
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,figma,bootstrap,tailwind" height="48" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,figma,bootstrap" height="48" />
 </p>
 
 ### ⚙️ Back-end
@@ -48,12 +48,12 @@ Aqui você acompanha minha evolução, meus estudos e tudo que estou construindo
 
 ### 🛠️ Ferramentas & Outros
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,azure,gcp" height="48" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,azure" height="48" />
 </p>
 
 ---
 
-# 🔥 Estatísticas do GitHub (modo extravagante)
+# 🔥 Estatísticas do GitHub
 <div align="center">
   
 <a href="https://github.com/gabr">
