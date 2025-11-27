@@ -96,5 +96,4 @@ Aqui você acompanha minha evolução, meus estudos e tudo que estou construindo
 
 ---
 
-<h3 align="center">✨ Feito por Gabrielle ✨</h3>
 
