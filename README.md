@@ -72,7 +72,6 @@ Aqui você acompanha minha evolução, meus estudos e tudo que estou construindo
 
 ---
 
-# 🌈 Badges Personalizadas
 <p align="center">
   <img src="https://img.shields.io/badge/Dev-Fullstack-ff00e6?style=for-the-badge&logo=starship&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-Learning-ff7ceb?style=for-the-badge&logo=java&logoColor=white" />
