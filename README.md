@@ -84,7 +84,7 @@
   </a>
   &nbsp;
   <a href="mailto:gabysimonegaby@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/gabysimonegaby%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
    &nbsp;
   <a href="#">
