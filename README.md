@@ -50,29 +50,28 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Métricas e Desempenho
 
 <div align="center">
   <a href="https://github.com/gabriellesca">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabriellesca&show_icons=true&theme=radical&border_color=ff00e6&title_color=ff00e6&icon_color=ff88ff&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellesca&show_icons=true&theme=radical&border_color=ff00e6&title_color=ff00e6&icon_color=ff88ff&hide_border=true&count_private=true" />
   </a>
-  
   <a href="https://github.com/gabriellesca">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellesca&layout=compact&theme=radical&title_color=ff00e6&border_color=ff00e6&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellesca&layout=compact&theme=radical&title_color=ff00e6&border_color=ff00e6&hide_border=true&langs_count=6" />
   </a>
-</div>
-
-<br>
-
-<div align="center">
+  <br/>
   <a href="https://github.com/gabriellesca">
-    <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellesca&theme=radical&fire=ff00e6&ring=ff00e6&currStreakLabel=ff88ff&hide_border=true" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellesca&theme=radical&fire=ff00e6&ring=ff00e6&currStreakLabel=ff88ff&hide_border=true" />
   </a>
 </div>
 
 ---
 
-## 📫 Contato
+## 🤝 Vamos nos conectar?
+
+<p align="center">
+  <em>Estou disponível para novas oportunidades e parcerias em projetos de tecnologia.</em>
+</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriellesca" target="_blank">
@@ -80,7 +79,11 @@
   </a>
   &nbsp;
   <a href="mailto:gabysimonegaby@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+   &nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/São%20Paulo-%20Brasil-009c3b?style=for-the-badge&logo=google-maps&logoColor=white" alt="Localização" />
   </a>
 </div>
 
@@ -88,5 +91,5 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20To%20Work-00f2ff?style=for-the-badge&logo=sparkles&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-QA%20%26%20Software%20Engineering-ff00e6?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-QA%20%26%20Testing-ff00e6?style=for-the-badge&logo=target&logoColor=white" />
 </p>
