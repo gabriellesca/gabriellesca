@@ -1,18 +1,27 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF00E6&center=true&vCenter=true&width=600&lines=Gabrielle+Simone+Cunha;Engenharia+de+Software+%7C+QA;Análise+e+Desenvolvimento+de+Sistemas;Desenvolvedora+Full+Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF00E6&center=true&vCenter=true&width=700&lines=Gabrielle+Simone+Cunha;QA+%2F+Testes+de+Software;Engenharia+de+Software+em+Forma%C3%A7%C3%A3o;An%C3%A1lise+e+Desenvolvimento+de+Sistemas" />
 </h1>
 
 <h3 align="center">
-🎯 Focada em Qualidade de Software, Testes e Desenvolvimento Web
+🎯 QA Júnior focada em Qualidade de Software, Testes Manuais e Validação de Sistemas
 </h3>
 
-<br>
+<br/>
 
 <p align="center">
-  Profissional graduada em <strong>Análise e Desenvolvimento de Sistemas</strong> e pós-graduanda em <strong>Engenharia de Software</strong> com ênfase em <strong>Qualidade e Teste de Software</strong>.
-  <br><br>
-  Possuo experiência com desenvolvimento web (Front-end e Back-end), lógica de programação, APIs REST e Bancos de Dados. Sou movida por desafios e aprendizado contínuo, buscando sempre entregar soluções eficientes e de qualidade em ambientes colaborativos.
+Profissional formada em <strong>Análise e Desenvolvimento de Sistemas</strong> e atualmente <strong>pós-graduanda em Engenharia de Software</strong>, com foco em <strong>Qualidade e Teste de Software</strong>.
+<br/><br/>
+Possuo sólida base em <strong>testes manuais</strong>, criação de <strong>casos e cenários de teste</strong>, validação de requisitos, testes de <strong>APIs REST</strong>, bancos de dados e controle de versão.
+Perfil analítico, organizado e orientado a processos, com experiência acadêmica e prática em documentação, identificação de defeitos e melhoria contínua.
 </p>
+
+---
+
+## 🎯 Objetivo Profissional
+
+💼 **QA Júnior / Estágio em Testes de Software**  
+📍 Preferência por ambientes **remotos ou híbridos**  
+🤝 Times colaborativos, foco em qualidade e boas práticas
 
 ---
 
@@ -20,12 +29,16 @@
 
 <table align="center">
   <tr>
-    <td width="300px" align="center"><strong>Pós-Graduação</strong></td>
-    <td>Engenharia de Software com ênfase em Qualidade e Teste de Software (Cursando)</td>
+    <td width="320px" align="center"><strong>Pós-Graduação</strong></td>
+    <td>Engenharia de Software – Ênfase em Qualidade e Teste de Software <em>(Cursando)</em></td>
   </tr>
   <tr>
-    <td width="300px" align="center"><strong>Graduação</strong></td>
-    <td>Análise e Desenvolvimento de Sistemas (Concluído)</td>
+    <td align="center"><strong>Graduação</strong></td>
+    <td>Análise e Desenvolvimento de Sistemas <em>(Concluído)</em></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Licenciatura</strong></td>
+    <td>Pedagogia <em>(Concluído)</em></td>
   </tr>
 </table>
 
@@ -33,41 +46,70 @@
 
 ## 🛠️ Habilidades Técnicas
 
-### 💻 Linguagens & Frameworks
+### 🧪 Qualidade & Testes
+- Testes Manuais de Software  
+- Criação de Casos e Cenários de Teste  
+- Identificação, Documentação e Reprodução de Defeitos  
+- Validação de Requisitos Funcionais  
+- Testes de API (conceitos REST)  
+
+### 💻 Tecnologias
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,nodejs,js,html,css" height="50" alt="Linguagens" />
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,mysql,git,github" height="45" />
 </p>
 
-### 🗄️ Banco de Dados & Infraestrutura
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github" height="50" alt="Infra" />
-</p>
+- JavaScript e Python (básico)
+- SQL / MySQL (validação de dados)
+- Git e GitHub
+- HTML5 e CSS3
 
-### 🎨 Design & Ferramentas
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,idea" height="50" alt="Ferramentas" />
-</p>
+### ⚙️ Metodologias & Ferramentas
+- Metodologias Ágeis (Scrum)
+- VS Code
+- Figma
+- Documentação técnica
 
 ---
 
-## 📊 Métricas e Desempenho
+## 📂 Projetos Acadêmicos e Práticos
+
+### 🧪 Projeto de Testes de Software – Aplicação Web
+- Criação e execução de **casos de teste manuais**
+- Elaboração de cenários baseados em requisitos funcionais
+- Identificação e documentação de defeitos
+- Validação de correções
+
+👉 *(Repositório em construção / acadêmico)*
+
+---
+
+### 🔌 Projeto de Validação de API REST
+- Análise de endpoints REST
+- Validação de status codes e respostas
+- Verificação de consistência e confiabilidade dos dados
+
+👉 *(Repositório em construção / acadêmico)*
+
+---
+
+### 📊 Projeto de Análise e Modelagem de Sistemas
+- Levantamento e documentação de requisitos
+- Modelagem de fluxos de sistema
+- Apoio à definição de regras de negócio com foco em qualidade
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/gabriellesca">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellesca&show_icons=true&theme=radical&border_color=ff00e6&title_color=ff00e6&icon_color=ff88ff&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/gabriellesca">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellesca&layout=compact&theme=radical&title_color=ff00e6&border_color=ff00e6&hide_border=true&langs_count=6" />
-  </a>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabriellesca&show_icons=true&theme=radical&hide_border=true&title_color=ff00e6" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellesca&layout=compact&theme=radical&hide_border=true&langs_count=6" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/gabriellesca">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellesca&theme=radical&fire=ff00e6&ring=ff00e6&currStreakLabel=ff88ff&hide_border=true" />
-  </a>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellesca&theme=radical&hide_border=true&ring=ff00e6&fire=ff00e6" />
 </div>
 
 ---
@@ -75,26 +117,24 @@
 ## 🤝 Vamos nos conectar?
 
 <p align="center">
-  <em>Estou disponível para novas oportunidades e parcerias em projetos de tecnologia.</em>
+Estou aberta a oportunidades como <strong>QA Júnior / Estagiária</strong> e projetos colaborativos.
 </p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriellesca" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:gabysimonegaby@gmail.com">
-    <img src="https://img.shields.io/badge/gabysimonegaby%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-   &nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/São%20Paulo-%20Brasil-009c3b?style=for-the-badge&logo=google-maps&logoColor=white" alt="Localização" />
-  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/São%20Paulo-Brasil-009c3b?style=for-the-badge&logo=google-maps&logoColor=white"/>
 </div>
 
-<br>
+<br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-00f2ff?style=for-the-badge&logo=sparkles&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-QA%20%26%20Testing-ff00e6?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-00f2ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-QA%20%26%20Testing-ff00e6?style=for-the-badge"/>
 </p>
