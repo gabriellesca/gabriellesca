@@ -38,8 +38,8 @@ Atuo com perfil analítico, organizado e orientado a processos, sempre com foco 
 - Testes de API (REST)
 
 **Tecnologias**
-- JavaScript (básico)
-- Python (básico)
+- JavaScript
+- Python 
 - HTML e CSS
 - SQL / MySQL
 - Git e GitHub
