@@ -1,64 +1,77 @@
-# Gabrielle Simone 
+<h1 align="center">Gabrielle Simone Cunha</h1>
 
-**QA Júnior | Qualidade de Software & Testes Manuais**  
-Engenharia de Software em formação
-
----
-
-Sou profissional formada em **Análise e Desenvolvimento de Sistemas** e atualmente **pós-graduanda em Engenharia de Software**, com foco em **Qualidade e Teste de Software**.
-
-Tenho base sólida em **testes manuais**, criação de **casos e cenários de teste**, **validação de requisitos**, **testes de APIs REST**, bancos de dados e documentação de defeitos.  
-Atuo com perfil analítico, organizado e orientado a processos, sempre com foco em qualidade e melhoria contínua.
+<p align="center">
+Estudante de Engenharia de Software | QA & Front-end em formação  
+São Paulo – Brasil  
+</p>
 
 ---
 
-## 🎯 Objetivo Profissional
+## 👩‍💻 Sobre mim
 
-- **QA Júnior / Estágio em Testes de Software**
-- Interesse em ambientes **remotos ou híbridos**
-- Times colaborativos com foco em boas práticas de qualidade
+Sou formada em Análise e Desenvolvimento de Sistemas e atualmente pós-graduanda em Engenharia de Software, com ênfase em Qualidade e Testes.
 
----
+Tenho base sólida em QA (testes manuais, cenários de teste, validação de requisitos e APIs REST) e estou expandindo meus conhecimentos em desenvolvimento front-end com HTML, CSS e JavaScript através de projetos práticos.
 
-## 🎓 Formação Acadêmica
+Gosto de aprender construindo projetos reais, com foco em organização, lógica, experiência do usuário e qualidade do software.
 
-- **Pós-Graduação:** Engenharia de Software – Ênfase em Qualidade e Teste de Software *(cursando)*  
-- **Graduação:** Análise e Desenvolvimento de Sistemas *(concluído)*  
-- **Licenciatura:** Pedagogia *(concluído)*
+Busco oportunidade como **Estagiária ou QA Júnior / Desenvolvedora Front-end Júnior**, preferencialmente remoto ou híbrido.
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 🚀 Tecnologias
 
-**Qualidade & Testes**
+### Qualidade / QA
 - Testes Manuais
-- Casos e Cenários de Teste
-- Documentação de Bugs
-- Validação de Requisitos
-- Testes de API (REST)
-
-**Tecnologias**
-- JavaScript
-- Python 
-- HTML e CSS
-- SQL / MySQL
-- Git e GitHub
-
-**Metodologias & Ferramentas**
+- Criação de Casos e Cenários de Teste
+- Identificação e documentação de defeitos
+- Validação de APIs REST
+- SQL / MySQL (validação de dados)
 - Metodologias Ágeis (Scrum)
-- VS Code
-- Figma
-- Documentação técnica
+
+### Desenvolvimento
+- HTML5  
+- CSS3  
+- JavaScript (ES6)
+- Git / GitHub
+- GitHub Pages
+- Manipulação do DOM
+- localStorage
+
+Ferramentas: VS Code, Figma
 
 ---
 
-## 📂 Projetos em Destaque
+## 🌟 Projetos em destaque
 
-- **QA Manual Fundamentals**  
-  Repositório com práticas de testes manuais, cenários de teste, checklist e documentação de bugs.
+📝 Heartopia Blog — CRUD completo em JavaScript  
+https://gabriellesca.github.io/heartopia-blog/
 
-- **Portfólio Pessoal**  
-  Projeto de front-end com HTML, CSS e JavaScript, focado em organização, UI e boas práticas.
+Funcionalidades:
+- Criar, editar e excluir posts  
+- Data automática  
+- Persistência com localStorage  
+- Interface personalizada com animações  
+
+---
+
+✅ To-Do List  
+https://gabriellesca.github.io/todo-list/
+
+Lista de tarefas com salvamento automático no navegador.
+
+---
+
+🧮 Calculadora em JavaScript  
+https://gabriellesca.github.io/calculadora-js/
+
+Projeto focado em lógica e seeparação de responsabilidades.
+
+---
+
+## 🎯 Objetivo profissional
+
+Conquistar minha primeira oportunidade na área de tecnologia, atuando com QA ou desenvolvimento front-end, onde eu possa aprender continuamente, contribuir com projetos reais e evoluir como profissional.
 
 ---
 
