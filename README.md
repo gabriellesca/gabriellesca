@@ -15,7 +15,7 @@ Tenho base sólida em QA (testes manuais, cenários de teste, validação de req
 
 Gosto de aprender construindo projetos reais, com foco em organização, lógica, experiência do usuário e qualidade do software.
 
-Busco oportunidade como **Estagiária ou QA Júnior / Desenvolvedora Front-end Júnior**, preferencialmente remoto ou híbrido.
+Busco oportunidade como **Estagiária ou QA Júnior / Desenvolvedora Front-end Júnior**.
 
 ---
 
