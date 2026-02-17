@@ -9,7 +9,7 @@ São Paulo – Brasil
 
 ## 👩‍💻 Sobre mim
 
-Sou formada em Análise e Desenvolvimento de Sistemas e atualmente pós-graduanda em Engenharia de Software, com ênfase em Qualidade e Testes.
+Sou formada em Análise e Desenvolvimento de Sistemas e atualmente crusando pós-graduação em Engenharia de Software, com ênfase em Qualidade e Testes.
 
 Tenho base sólida em QA (testes manuais, cenários de teste, validação de requisitos e APIs REST) e estou expandindo meus conhecimentos em desenvolvimento front-end com HTML, CSS e JavaScript através de projetos práticos.
 
