@@ -1,96 +1,83 @@
-<h1 align="center">✨ Gabrielle Simone ✨</h1>
+<h1 align="center">Gabrielle Simone Cunha</h1>
 
 <p align="center">
-Estudante de Engenharia de Software • QA & Front-end em formação  
-<br>
-São Paulo - Brasil
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1000&color=E879F9&center=true&vCenter=true&width=600&lines=QA+%26+Front-end+em+forma%C3%A7%C3%A3o;Apaixonada+por+UI+e+l%C3%B3gica;Construindo+projetos+reais+todos+os+dias" />
+Estudante de Engenharia de Software | QA & Front-end em formação  
+São Paulo – Brasil  
 </p>
 
 ---
 
-## 🌷 Sobre mim
+## 👩‍💻 Sobre mim
 
-Sou formada em Análise e Desenvolvimento de Sistemas e atualmente estou cursando pós-graduação em Engenharia de Software.
+Sou formada em Análise e Desenvolvimento de Sistemas e atualmente cursnado pós-graduanda em Engenharia de Software, com ênfase em Qualidade e Testes.
 
-Tenho base em **QA (testes manuais, cenários, APIs)** e estou evoluindo em **Front-end (HTML, CSS e JavaScript)** através de projetos reais.
+Tenho base sólida em QA (testes manuais, cenários de teste, validação de requisitos e APIs REST) e estou expandindo meus conhecimentos em desenvolvimento front-end com HTML, CSS e JavaScript através de projetos práticos.
 
-Gosto de unir **qualidade + visual + lógica**, criando aplicações simples, bonitas e funcionais.
+Gosto de aprender construindo projetos reais, com foco em organização, lógica, experiência do usuário e qualidade do software.
 
-🎯 Busco oportunidade como **QA Júnior / Estágio / Front-end Júnior**.
-
----
-
-## 💖 Tech Stack
-
-### 🧪 Qualidade
-
-![QA](https://img.shields.io/badge/QA-ec4899?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-a78bfa?style=for-the-badge)
-![APIs](https://img.shields.io/badge/APIs-60a5fa?style=for-the-badge)
-![Scrum](https://img.shields.io/badge/Scrum-f472b6?style=for-the-badge)
+Busco oportunidade como **Estagiária ou QA Júnior / Desenvolvedora Front-end Júnior**.
 
 ---
 
-### 💻 Desenvolvimento
+## 🚀 Tecnologias
 
-![HTML](https://img.shields.io/badge/HTML5-e879f9?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS3-c084fc?style=for-the-badge)
-![JS](https://img.shields.io/badge/JavaScript-f472b6?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge)
+### Qualidade / QA
+- Testes Manuais
+- Criação de Casos e Cenários de Teste
+- Identificação e documentação de defeitos
+- Validação de APIs REST
+- SQL / MySQL (validação de dados)
+- Metodologias Ágeis (Scrum)
+
+### Desenvolvimento
+- HTML5  
+- CSS3  
+- JavaScript (ES6)
+- Git / GitHub
+- GitHub Pages
+- Manipulação do DOM
+- localStorage
+
+Ferramentas: VS Code, Figma
 
 ---
 
-## 🌸 Projetos em destaque
+## 🌟 Projetos em destaque
 
-📝 Heartopia Blog (CRUD completo)  
+📝 Heartopia Blog — CRUD completo em JavaScript  
 https://gabriellesca.github.io/heartopia-blog/
 
-✨ CRUD + localStorage + editar + excluir + data automática
+Funcionalidades:
+- Criar, editar e excluir posts  
+- Data automática  
+- Persistência com localStorage  
+- Interface personalizada com animações  
 
 ---
 
 ✅ To-Do List  
 https://gabriellesca.github.io/todo-list/
 
-✨ Lista de tarefas com persistência no navegador
+Lista de tarefas com salvamento automático no navegador.
 
 ---
 
-🧮 Calculadora JS  
+🧮 Calculadora em JavaScript  
 https://gabriellesca.github.io/calculadora-js/
 
-✨ Projeto focado em lógica JavaScript
+Projeto focado em lógica e seeparação de responsabilidades.
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Objetivo profissional
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gabriellesca&show_icons=true&theme=radical"/>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellesca&layout=compact&theme=radical"/>
-</p>
-
----
-
-## 🎯 Objetivo
-
-Entrar na área de tecnologia, atuando com QA ou Front-end, aprendendo continuamente e contribuindo em projetos reais.
+Conquistar minha primeira oportunidade na área de tecnologia, atuando com QA ou desenvolvimento front-end, onde eu possa aprender continuamente, contribuir com projetos reais e evoluir como profissional.
 
 ---
 
 ## 📫 Contato
 
-💌 Email: gabysimonegaby@gmail.com  
-💻 GitHub: https://github.com/gabriellesca  
-💼 LinkedIn: (adicione depois)
+Email: gabysimonegaby@gmail.com  
+GitHub: https://github.com/gabriellesca  
+Linkedin: https://www.linkedin.com/in/gabrielle-simone-928062392/
 
----
-
-<p align="center">
-✨ Obrigada por visitar meu perfil ✨  
-</p>
