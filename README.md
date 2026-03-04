@@ -1,83 +1,117 @@
-<h1 align="center">Gabrielle Simone Cunha</h1>
+# 👩‍💻 Gabrielle Simone Cunha
 
-<p align="center">
-Estudante de Engenharia de Software | QA & Front-end em formação  
-São Paulo – Brasil  
-</p>
+Software Developer | Quality Assurance | Web Development
 
----
+🎓 Formada em **Análise e Desenvolvimento de Sistemas**
+📚 Pós-graduanda em **Engenharia de Software (Qualidade e Teste de Software)**
 
-## 👩‍💻 Sobre mim
+Sou apaixonada por tecnologia e desenvolvimento de software. Durante minha formação desenvolvi projetos práticos envolvendo **desenvolvimento web, banco de dados, modelagem de sistemas e programação**, sempre buscando escrever código limpo, organizado e com foco em qualidade.
 
-Sou formada em Análise e Desenvolvimento de Sistemas e atualmente cursnado pós-graduanda em Engenharia de Software, com ênfase em Qualidade e Testes.
+Tenho interesse em atuar como:
 
-Tenho base sólida em QA (testes manuais, cenários de teste, validação de requisitos e APIs REST) e estou expandindo meus conhecimentos em desenvolvimento front-end com HTML, CSS e JavaScript através de projetos práticos.
-
-Gosto de aprender construindo projetos reais, com foco em organização, lógica, experiência do usuário e qualidade do software.
-
-Busco oportunidade como **Estagiária ou QA Júnior / Desenvolvedora Front-end Júnior**.
+* QA Engineer Junior
+* Frontend Developer Junior
+* Analista de Sistemas Junior
 
 ---
 
-## 🚀 Tecnologias
+# 🚀 Tecnologias e Ferramentas
 
-### Qualidade / QA
-- Testes Manuais
-- Criação de Casos e Cenários de Teste
-- Identificação e documentação de defeitos
-- Validação de APIs REST
-- SQL / MySQL (validação de dados)
-- Metodologias Ágeis (Scrum)
+### Linguagens
 
-### Desenvolvimento
-- HTML5  
-- CSS3  
-- JavaScript (ES6)
-- Git / GitHub
-- GitHub Pages
-- Manipulação do DOM
-- localStorage
+HTML • CSS • JavaScript • Python • SQL • PHP
 
-Ferramentas: VS Code, Figma
+### Banco de Dados
+
+MySQL • Modelagem de dados • SQL Queries
+
+### Ferramentas
+
+Git • GitHub • Visual Studio Code • MySQL Workbench • XAMPP • Android Studio • VirtualBox
+
+### Metodologias
+
+Agile • Scrum
 
 ---
 
-## 🌟 Projetos em destaque
+# 💻 Projetos em Destaque
 
-📝 Heartopia Blog — CRUD completo em JavaScript  
-https://gabriellesca.github.io/heartopia-blog/
+### 📌 To-Do List (JavaScript)
+
+Aplicação de lista de tarefas desenvolvida com HTML, CSS e JavaScript puro.
 
 Funcionalidades:
-- Criar, editar e excluir posts  
-- Data automática  
-- Persistência com localStorage  
-- Interface personalizada com animações  
+
+* adicionar tarefas
+* remover tarefas
+* marcar tarefas como concluídas
+* persistência de dados usando LocalStorage
+
+Tecnologias:
+JavaScript • HTML • CSS
 
 ---
 
-✅ To-Do List  
-https://gabriellesca.github.io/todo-list/
+### 📌 Sistema de Login
 
-Lista de tarefas com salvamento automático no navegador.
+Projeto desenvolvido para simular autenticação de usuários utilizando JavaScript.
 
----
+Funcionalidades:
 
-🧮 Calculadora em JavaScript  
-https://gabriellesca.github.io/calculadora-js/
+* validação de login
+* manipulação de DOM
+* organização da lógica de autenticação
 
-Projeto focado em lógica e seeparação de responsabilidades.
-
----
-
-## 🎯 Objetivo profissional
-
-Conquistar minha primeira oportunidade na área de tecnologia, atuando com QA ou desenvolvimento front-end, onde eu possa aprender continuamente, contribuir com projetos reais e evoluir como profissional.
+Tecnologias:
+JavaScript • HTML • CSS
 
 ---
 
-## 📫 Contato
+### 📌 Aplicação Web – Consulta de Signos
 
-Email: gabysimonegaby@gmail.com  
-GitHub: https://github.com/gabriellesca  
-Linkedin: https://www.linkedin.com/in/gabrielle-simone-928062392/
+Sistema web que identifica o signo do usuário a partir da data de nascimento.
 
+Tecnologias:
+HTML • PHP • XML • Bootstrap • CSS
+
+Funcionalidades:
+
+* formulário para entrada da data
+* consulta dinâmica ao XML
+* exibição do resultado ao usuário
+
+---
+
+### 📌 Banco de Dados – Sistema Loja
+
+Projeto de modelagem e implementação de banco de dados relacional.
+
+Tecnologias:
+SQL • MySQL Workbench
+
+Funcionalidades:
+
+* criação de tabelas
+* chaves primárias
+* inserção de dados
+* criação de VIEW para consultas
+
+---
+
+# 📚 Atualmente estudando
+
+* Software Testing
+* Quality Assurance (QA)
+* APIs REST
+* JavaScript avançado
+
+---
+
+# 🌐 Contato
+
+LinkedIn
+https://www.linkedin.com/in/gabrielle-simone-928062392/
+
+Email
+[gabysimonegaby@gmail.com](mailto:gabysimonegaby@gmail.com)
