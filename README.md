@@ -1,17 +1,6 @@
-# Olá, eu sou a Gabrielle Simone! 👋
 # Hi, I'm Gabrielle Simone! 👋
 
----
-
-### 🇧🇷 Desenvolvedora Full Stack | Foco em Qualidade de Software (QA)
-
-Sou uma desenvolvedora apaixonada por atuar em todo o ciclo de vida da aplicação, desde a modelagem do banco de dados até a criação de interfaces reativas. Com formação em Análise e Desenvolvimento de Sistemas e especialização em Engenharia de Software (Qualidade e Testes), meu diferencial é unir o desenvolvimento de ponta a ponta com uma mentalidade rigorosa de testes e boas práticas.
-
-Atualmente em São Paulo, SP, construo soluções focadas em performance e confiabilidade, com foco em oportunidades remotas nas áreas de QA, Frontend e Suporte Técnico.
-
----
-
-### 🇺🇸 Full Stack Developer | Quality Engineering Focus
+### Full Stack Developer | Quality Engineering Focus
 
 I'm a developer passionate about the full application lifecycle — from database modeling to building reactive interfaces. I hold a degree in Systems Analysis and Development and am completing a postgraduate specialization in Software Engineering with emphasis on Quality and Testing.
 
@@ -19,15 +8,8 @@ Based in São Paulo, Brazil, I build solutions focused on performance and reliab
 
 ---
 
-## 🎯 O que eu faço? / What I do
+## 🎯 What I do
 
-🇧🇷
-- **Front-end:** Criação de SPAs reativas com React, gerenciamento de estado (Context API) e consumo de APIs REST.
-- **Back-end & Dados:** Modelagem de bancos relacionais (MySQL/PostgreSQL), criação de APIs estruturadas e manipulação de dados.
-- **Engenharia de Qualidade:** Criação de cenários de teste, report de bugs estruturado, testes manuais e automação.
-- **Infra & Ferramentas:** Experiência prática com Git/GitHub, Linux (Bash) e metodologias ágeis.
-
-🇺🇸
 - **Frontend:** Building reactive SPAs with React, state management (Context API), and REST API consumption.
 - **Backend & Data:** Relational database modeling (MySQL/PostgreSQL), structured API design, and data manipulation.
 - **Quality Engineering:** Test case design, structured bug reporting, manual testing, and automation (Cypress).
@@ -35,7 +17,7 @@ Based in São Paulo, Brazil, I build solutions focused on performance and reliab
 
 ---
 
-## 🛠️ Minha Stack / My Stack
+## 🛠️ My Stack
 
 **Front-end & UI**
 
@@ -65,8 +47,8 @@ Based in São Paulo, Brazil, I build solutions focused on performance and reliab
 
 ---
 
-## 📬 Vamos nos conectar! / Let's connect!
+## 📬 Let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriellesca)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=github&logoColor=white)](https://gabriellesca.github.io/meu-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://gabriellesca.github.io/meu-portfolio)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabysimonegaby@gmail.com)
